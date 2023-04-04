@@ -29,5 +29,7 @@ Problem Statement: The bike service company provided the dataset that contains d
 
 Insights:
 1) Average income per purchase is more for male compared to Female
+ 
 2) Bike purchasing rate is more in males
+
 3)The middle Age group( Age 31 t0 55) people purchasing bikes more
