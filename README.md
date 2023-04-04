@@ -32,4 +32,4 @@ Insights:
  
 2) Bike purchasing rate is more in males
 
-3)The middle Age group( Age 31 t0 55) people purchasing bikes more
+3) The middle Age group( Age 31 t0 55) people purchasing bikes more
