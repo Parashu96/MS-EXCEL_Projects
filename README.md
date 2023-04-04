@@ -33,3 +33,14 @@ Insights:
 2) Bike purchasing rate is more in males
 
 3) The middle Age group( Age 31 t0 55) people purchasing bikes more
+
+# Hiring Process Analytics
+Project Description: Hiring process is the fundamental and the most important function of a company. Here, the MNCs get to know about the major underlying trends about the hiring process. Trends such as- number of rejections, number of interviews, types of jobs, vacancies etc. are important for a company to analyse before hiring freshers or any other individual. Thus, making an opportunity for a Data Analyst job here too!
+![Hiring_process_Dashboard](https://user-images.githubusercontent.com/121815820/229710704-3dd690a7-4a69-45d3-89ea-48828a427aa9.JPG)
+
+Insights:
+1) Total male hired is 2563 and Female 1856
+2) The Average salary of the employee in company is 49983
+3) The biggeset proportion of the people are in operations department and service departments
+4) The maximum hierd posts are in c9 and c5
+
